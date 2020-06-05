@@ -1,0 +1,18 @@
+{
+    "src": {
+        "domain":"http://localhost:3000"
+    },
+    "dst": {
+        "domain": "http://localhost:3001"
+    },
+    "apiList": [
+        {
+            "uri": "/test1",
+            "method": "GET"
+        }, 
+        {
+            "uri": "/test2",
+            "method": "GET"
+        }    
+    ]
+}
